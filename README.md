@@ -1,7 +1,5 @@
 # MechaCar_Statistical_Analysis
-![MapWhatGIF](https://c.tenor.com/em5yqdp6aqUAAAAC/statistics.gif
-# MechaCar_Statistical_Analysis
-Linear Regression, Summary Statistics, Analysis of production difficulties for new MechaCar prototype
+![MapWhatGIF](https://user-images.githubusercontent.com/98368422/164949884-6a568840-d4f1-444e-bb37-b68306d981ac.gif)
 
 ## Deliverable 1: Linear Regression to Predict MPG 
 	* Vehicle Length and Vehicle Ground Clearance are statistically significant with a p-value = 0.00000000000260 and p-value =  0.0000000521 respectively. This indicates these two factors significantly influence the MechaCar gas mileage. While Spoiler Angle, Vehicle Weight, and AWD have p-values greater than the .05 threshold for significance. 
@@ -32,5 +30,4 @@ Linear Regression, Summary Statistics, Analysis of production difficulties for n
 	* Alternative Hypothesis - MechaCar fuel economy and initial price differ significantly from other competitors and the population of vehicles in its class. 
 
 	* Identify all similar vehicles from competing manufacturers, and gather average selling price data for those models as well as the average gas mileage. Create a table containing all of this data and calculate summary statistic data to make comparisons between MechaCar and other individual competitors. Aggregate the summary statistics across the entire group and determine whether or not MechaCar varies significantly in terms of affordability. 
-# MechaCar_Statistical_Analysis
-Linear Regression, Summary Statistics, Analysis of production difficulties for new MechaCar prototype
+
